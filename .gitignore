@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/.vs
+/src/Rebus.RabbitMq.Common/obj
+/src/Rebus.RabbitMq.Publisher/obj
+/src/Rebus.RabbitMq.Common/bin/Debug/net10.0
+/src/Rebus.RabbitMq.Consumer/bin/Debug/net10.0
+/src/Rebus.RabbitMq.Consumer/obj
+/src/Rebus.RabbitMq.Publisher/bin/Debug/net10.0

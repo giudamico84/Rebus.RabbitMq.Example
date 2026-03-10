@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Rebus.RabbitMq.Common/Rebus.RabbitMq.Common.csproj" Id="ddf1117b-8a65-4667-9272-9ed02ae34dc3" />
+  <Project Path="Rebus.RabbitMq.Consumer/Rebus.RabbitMq.Consumer.csproj" Id="5e5d944f-6a73-448e-a210-341ecc926458" />
+  <Project Path="Rebus.RabbitMq.Publisher/Rebus.RabbitMq.Publisher.csproj" />
+</Solution>
