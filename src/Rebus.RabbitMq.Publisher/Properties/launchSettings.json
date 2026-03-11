@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Rebus.RabbitMq.Publisher": {
+      "commandName": "Project",
+      "commandLineArgs": "publish-sample-event -num 50"
+    }
+  }
+}
